@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api/contacts";
+const API_URL = "https://possible-bow-blue.glitch.me/api/contacts";
 
 function API_GetContacts() {
     return new Promise(resolve => {
